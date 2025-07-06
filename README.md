@@ -117,6 +117,8 @@ Price_t = base_price * (1 + lambda * normalized_demand)
 
 ---
 
+**The Below part is under Process**
+
 ## 🧠 Model 3 (Optional): Competitive Pricing Model
 
 ### ➤ Purpose:
